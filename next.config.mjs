@@ -4,6 +4,7 @@ const nextConfig = {
   images: {
     domains: ["example.com"],
   },
+  'output': 'export'
 };
 
 export default nextConfig;
